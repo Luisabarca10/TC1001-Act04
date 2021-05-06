@@ -14,8 +14,11 @@ usa el mouse para disparar proyectiles y destruir los globos.
 ## contribuciones
 
 #### [Eduard Vercaemer](https://github.com/eduardvercaemer)
+- los globos se reposicionan al llegar al limite
 
 #### [Luis Abarca](https://github.com/Luisabarca10)
+- aumento velocidad proyectil
+- aumento velocidad globos
 
 ## referencias
 
